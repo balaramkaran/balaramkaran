@@ -8,8 +8,7 @@
 
 - 🌱 I’m currently learning **Data Analytics**
 
-- 👨‍💻 All of my projects are available at(https://www.linkedin.com/in/balaram-karan-data-analyst/)
-
+- 👨‍💻 All of my projects are available at [[https://www.linkedin.com/in/balaram-karan-data-analyst/]
 - ⚡ Fun fact **I am funny😅**
 
 <h3 align="left">Connect with me:</h3>
